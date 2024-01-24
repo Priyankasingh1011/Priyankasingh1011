@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A passionate embedded developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Priyankasingh1011/Priyankasingh1011/assets/95208624/bb13e56e-a12e-450a-99f1-1d2281ff00ba.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Priyankasingh1011/Priyankasingh1011/blob/main/f57c4d1979de06e49b1dd15d02ecd231.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankasingh1011&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasingh1011" /> </p>
 
 - 🔭 I’m currently working on **a mini shell for microcontroller**
