@@ -1,4 +1,4 @@
-![logo](https://github.com/Priyankasingh1011/Priyankasingh1011/assets/95208624/ea3b6ac3-bac2-4747-89ba-e49dc6883d6a)
+![logo](GIT_BANNER.png)
 
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A passionate embedded developer from India</h3>
